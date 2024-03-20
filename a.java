@@ -1,1 +1,1 @@
-to fetch git 
+to fetch git repositories
